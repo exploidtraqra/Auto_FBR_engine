@@ -5,3 +5,4 @@
 <p><i>TERMUX LINUX EMULATOR</i></p>
 <p>author : ahmad</p>
   Github : Dvl_Noob
+  <p>**MASIH DALAM PENGEMBAGAN**</p>
