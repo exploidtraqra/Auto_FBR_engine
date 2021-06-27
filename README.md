@@ -6,3 +6,6 @@
 <p>author : ahmad</p>
   Github : Dvl_Noob
   <p>**MASIH DALAM PENGEMBAGAN**</p>
+  <p>**still in development**</p>
+  <p>**仍在開發中**</p>
+  <p>**仍在开发中**</p>
